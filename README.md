@@ -80,4 +80,3 @@
   - Monitoring migration progress.
   - Verifying successful migration and updating DNS records.
   - Decommissioning on-premises Exchange.
-- 
